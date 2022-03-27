@@ -50,12 +50,11 @@ for ( i = 0; i <= 2; i++) {
 [SoloLern](https://www.sololearn.com/home):
 *  [HTML (Завершено)](https://www.sololearn.com/Certificate/1014-17743435/pdf/)
 *  [CSS(Завершено)](https://www.sololearn.com/Certificate/1023-17743435/pdf/)
-* ) [Javascript(Завершено)](https://www.sololearn.com/Certificate/1024-17743435/pdf/)
+*  [Javascript(Завершено)](https://www.sololearn.com/Certificate/1024-17743435/pdf/)
 ----
 #### Языки:
 * Русский - родной
 * Английский - A1 (по данным онлайн-теста на  [Busuu](https://www.busuu.com/ru))
----
 
 
 
